@@ -5,6 +5,8 @@
     <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakyf&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
     <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=Hakyf&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
   </div>
+  
+##
   <div>
     <img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Hakyf&theme=react&hide_border=true"/>
   </div>
@@ -16,7 +18,8 @@
 ## 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/habibullahdm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hakyf_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hakyf_) 
 
----
+##
 [![](https://visitcount.itsvg.in/api?id=Hakyf&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##
+![Snake animation](https://github.com/hakyf/hakyf/blob/output/github-contribution-grid-snake.svg)
