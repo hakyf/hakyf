@@ -1,8 +1,11 @@
 ## Hi, I'm Habibullah Dzaky Musthafa 👋
-</br>
 
   <div>
     <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakyf&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  </div>
+  
+####
+  <div>
     <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=Hakyf&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
   </div>
   
